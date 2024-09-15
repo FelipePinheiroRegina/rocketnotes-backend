@@ -20,7 +20,9 @@ The main techs:
 - knex
 - pm2
 
-Steps to run this project in your machine:
+important to know exists a front project - [Go now](https://github.com/FelipePinheiroRegina/rocketnotes-frontend)
+
+Steps to run this API in your machine:
 ```
 // Open bash
 git clone https://github.com/FelipePinheiroRegina/rocketnotes-backend.git
